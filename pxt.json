@@ -1,18 +1,19 @@
 {
     "name": "pxt-translationtest",
-    "version": "0.1.0",
-    "description": "",
+    "version": "0.1.1",
+    "description": " a test ",
     "dependencies": {
         "core": "*",
         "radio": "*"
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locales/no/transTest-strings.json"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
+    "public": true,
     "additionalFilePaths": []
 } 
