@@ -1,6 +1,3 @@
 {
-  "BBMotor.Left|block": "kevin",
-  "BBMotor.Right|block": "høy",
-  "BBMotor.All|block": "altar",
   "transTest.buzz|block": "buzz lyd %flag"
-  }
+}
